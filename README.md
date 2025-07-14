@@ -19,10 +19,17 @@ I'm a student and aspiring Python developer, currently on a journey to master pr
 - **Object-Oriented Programming (OOP)** (Basics)
 - **Linked Lists** (Recently completed!)
 
+- ### 🏅 Certifications
+- HackerRank Python (Basic) — earned in July 2025
+
+
 ## 🚀 Highlight Project
 
 ### [[Custom Linked List Module](https://github.com/truth05-bizz/python_project_portfolio)](#)
 _A hands-on project where I built my own linked list implementation from scratch to deepen my understanding of data structures and Python OOP._
+
+### [[Personal Data Organizer](https://github.com/truth05-bizz/python_projects_portfolio/tree/main/projects/personal-data-organizer)](#)
+_A real-world command-line application written in Python that allows users to store, search, and organize personal data.
 
 > _Check out the repo for code, notes, and examples!_
 
