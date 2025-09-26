@@ -1,4 +1,4 @@
-# 👋 Hi, I'm truth05-bizz
+# 👋 Hi, I'm Truth  
 
 > “Building from the ground up — one line of code at a time.”
 
@@ -6,32 +6,37 @@
 
 ## 🌱 About Me
 
-I'm a student and aspiring Python developer, currently on a journey to master programming from the ground up. I’m passionate about technology, always eager to learn new concepts, and I love organizing my learning progress right here on GitHub.
+I'm a student and aspiring **AI Engineer / Python Developer**, currently on a journey to master programming and automation from the ground up.  
 
-- 🔥 Actively learning: **Python**, **Git**, and core computer science concepts like **OOP** and **Linked Lists**
-- 🎯 Goal: Build real-world projects from scratch and become a well-rounded developer
-- 🗂️ I use GitHub to document my journey and share my progress with others
+I’m passionate about building **intelligent systems** — from small bots to voice assistants — and I use GitHub as my journal to document every step of my learning and growth.  
 
-## 🛠️ Skills
+- 🔥 Actively learning: **Python**, **Automation**, **Git**, and core computer science concepts  
+- 🎯 Goal: Build real-world AI projects (bots, assistants, automation tools) and become a well-rounded developer  
+- 🗂️ Using GitHub to **document my journey** and share my progress with the world  
 
-- **Python**
-- **Git**
-- **Object-Oriented Programming (OOP)** (Basics)
-- **Linked Lists** (Recently completed!)
+---
 
-- ### 🏅 Certifications
-- HackerRank Python (Basic) — earned in July 2025
+## 🛠️ Skills (Growing Stack)
 
+- **Python** (Beginner → Intermediate, actively practicing)  
+- **Automation** (scripts, bots, task automation)  
+- **Git & GitHub** (version control, project showcase)  
+- **Object-Oriented Programming (OOP)** (Basics mastered)  
+- **Data Structures** (Linked Lists completed, expanding into more)  
 
-## 🚀 Highlight Project
+---
 
-### [[Custom Linked List Module](https://github.com/truth05-bizz/python_project_portfolio)](#)
-_A hands-on project where I built my own linked list implementation from scratch to deepen my understanding of data structures and Python OOP._
+## 🤖 Projects I’m Exploring
+--- Coming soon
+---
 
-### [[Personal Data Organizer](https://github.com/truth05-bizz/python_projects_portfolio/tree/main/projects/personal-data-organizer)](#)
-_A real-world command-line application written in Python that allows users to store, search, and organize personal data.
+## 🏅 Certifications
+- HackerRank Python (Basic) — *earned July 2025*  
 
-> _Check out the repo for code, notes, and examples!_
+---
+
+⭐️ *Currently documenting my journey into Python, Automation, and AI. Stick around — more bots and assistants coming soon!*  
+
 
 ## 🎉 Fun Fact
 
